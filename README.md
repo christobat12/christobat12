@@ -9,11 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/christobat12](https://github.com/christobat12)
 
-- 💬 Ask me about **my 100 hours project**
-
 - 📫 How to reach me **christobat12@gmail.com**
-
-- ⚡ Fun fact **I convinced my girlfriend to learn coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
